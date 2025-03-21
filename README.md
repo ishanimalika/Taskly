@@ -1,5 +1,2 @@
 # Taskly
-Taskly, A to do list App. 
-   Add day today tasks
-   Mark when complete 
-   Delete the tasks.
+Taskly, A to do list App. Add day today tasks, mark when complete and delete the tasks.
